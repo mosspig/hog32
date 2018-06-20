@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name fp-wrover)(type KiCad)(uri /home/dwblair/fp-wrover.pretty)(options "")(descr ""))
+  (lib (name esp_wrover)(type KiCad)(uri "$(KIPRJMOD)/esp_wrover.pretty")(options "")(descr ""))
+)
