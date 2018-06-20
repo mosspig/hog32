@@ -1,4 +1,4 @@
-update=Do 11 Jan 2018 15:13:18 CET
+update=Wed 20 Jun 2018 07:34:04 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
 [eeschema]
 version=1
-LibDir=
+LibDir=kicad-symbols-master
 [eeschema/libraries]
 LibName1=/home/pcbreflux/nordic/kicad/lib/module
 LibName2=power
@@ -59,13 +69,6 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceAjustPassiveValues=0
-LabSize=60
-ERC_TestSimilarLabels=1
+LibName31=silabs
+LibName32=ap2112
+LibName33=hog32
