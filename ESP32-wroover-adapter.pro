@@ -1,4 +1,4 @@
-update=Fri 22 Jun 2018 01:34:32 PM EDT
+update=Fri 22 Jun 2018 03:19:44 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -74,3 +74,4 @@ LibName32=ap2112
 LibName33=hog32
 LibName34=switches
 LibName35=NQBit.pretty/nqbit
+LibName36=STM32-RFM95-PCB-master/RFM/RFM95

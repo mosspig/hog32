@@ -257,7 +257,7 @@ U 1 1 5B2BF5F4
 P 7800 2150
 F 0 "J7" H 7800 2550 50  0000 C CNN
 F 1 "Conn_01x07" H 7800 1750 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Angled_1x07_Pitch2.54mm" H 7800 2150 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm" H 7800 2150 50  0001 C CNN
 F 3 "" H 7800 2150 50  0001 C CNN
 	1    7800 2150
 	1    0    0    -1  
@@ -478,20 +478,9 @@ U 1 1 5B2DAEB8
 P 10050 4100
 F 0 "J10" H 9400 4700 50  0000 C CNN
 F 1 "Micro_SD_Card" H 10700 4700 50  0000 R CNN
-F 2 "digikey-footprints:MicroSD_2908-05WB-MG" H 11200 4400 50  0001 C CNN
+F 2 "digikey-footprints:DM3D-SF" H 11200 4400 50  0001 C CNN
 F 3 "" H 10050 4100 50  0001 C CNN
 	1    10050 4100
-	1    0    0    -1  
-$EndComp
-$Comp
-L RFM95HW U?
-U 1 1 5B2DB777
-P 4100 5500
-F 0 "U?" H 3750 5750 40  0000 C CNN
-F 1 "RFM95HW" H 4350 4750 40  0000 C CNN
-F 2 "mysensors_radios:RFM69HW_SMD_ThroughHole_Handsoldering" H 4100 5500 30  0001 C CIN
-F 3 "" H 4100 5500 60  0000 C CNN
-	1    4100 5500
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

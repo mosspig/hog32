@@ -3,5 +3,6 @@
   (lib (name kicad-open-modules-master)(type KiCad)(uri "$(KIPRJMOD)/kicad-open-modules-master")(options "")(descr ""))
   (lib (name NQBit)(type KiCad)(uri "$(KIPRJMOD)/NQBit.pretty")(options "")(descr ""))
   (lib (name hog32)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
-  (lib (name digikey-footprints)(type KiCad)(uri /home/dwblair/gitwork/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name RFM)(type KiCad)(uri "$(KIPRJMOD)/STM32-RFM95-PCB-master/RFM")(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri "$(KIPRJMOD)/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
 )
