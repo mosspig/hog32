@@ -1,4 +1,4 @@
-update=Wed 20 Jun 2018 07:34:04 PM EDT
+update=Fri 22 Jun 2018 01:34:32 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -37,7 +37,7 @@ LabSize=60
 ERC_TestSimilarLabels=1
 [eeschema]
 version=1
-LibDir=kicad-symbols-master
+LibDir=../hog32
 [eeschema/libraries]
 LibName1=/home/pcbreflux/nordic/kicad/lib/module
 LibName2=power
@@ -72,3 +72,5 @@ LibName30=valves
 LibName31=silabs
 LibName32=ap2112
 LibName33=hog32
+LibName34=switches
+LibName35=NQBit.pretty/nqbit

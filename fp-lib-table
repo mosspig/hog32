@@ -1,4 +1,7 @@
 (fp_lib_table
-  (lib (name fp-wrover)(type KiCad)(uri /home/dwblair/fp-wrover.pretty)(options "")(descr ""))
   (lib (name esp_wrover)(type KiCad)(uri "$(KIPRJMOD)/esp_wrover.pretty")(options "")(descr ""))
+  (lib (name kicad-open-modules-master)(type KiCad)(uri "$(KIPRJMOD)/kicad-open-modules-master")(options "")(descr ""))
+  (lib (name NQBit)(type KiCad)(uri "$(KIPRJMOD)/NQBit.pretty")(options "")(descr ""))
+  (lib (name hog32)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri /home/dwblair/gitwork/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
 )
